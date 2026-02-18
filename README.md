@@ -1,2 +1,2 @@
-# Sample
-Sample
+#include<stdio.h>
+int main()
